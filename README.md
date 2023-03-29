@@ -4,9 +4,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamphk&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=williamphk&theme=algolia&show_icons=true)](https://github.com/williamphk)
 
 <!--
 **williamphk/williamphk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
