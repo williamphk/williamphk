@@ -4,7 +4,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=williamphk&theme=algolia&show_icons=true&layout=compact)](https://github.com/williamphk)
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=williamphk&theme=algolia&show_icons=true)](https://github.com/williamphk)
 
 <!--
 **williamphk/williamphk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
