@@ -2,11 +2,11 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0183BF?style=flat-square&labelColor=0183BF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-thomas-6b563012)](https://www.linkedin.com/in/william-p-56733b211/)
 
-💭 Interested in full stack web development 
+💭 Interested in hiking, nature, gaming, movies, and technology 
 
 📖 Currently studying web development in Hubmer College, Toronto 
 
-🌱 Currently learning Node.js and ASP.NET
+🌱 Actively learning Node.js and ASP.NET
 
 💼 Used to work in the construction industry in Hong Kong
 
