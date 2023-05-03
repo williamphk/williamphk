@@ -8,8 +8,6 @@
 
 🌱 Actively learning Node.js and ASP.NET
 
-💼 Used to work in the construction industry in Hong Kong
-
 <details>
   <summary>GitHub Stats</summary>
   
