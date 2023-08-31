@@ -6,7 +6,7 @@
 
 📖 Currently studying web development in Hubmer College, Toronto 
 
-🌱 Actively learning Node.js and ASP.NET
+🌱 Actively learning TypeScript
 
 <details>
   <summary>GitHub Stats</summary>
