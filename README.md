@@ -1,12 +1,22 @@
-### Hi there 👋
-
-[![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0183BF?style=flat-square&labelColor=0183BF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-thomas-6b563012)](https://www.linkedin.com/in/william-p-56733b211/)
+# Hi there 👋
 
 💭 Interested in hiking, nature, gaming, movies, and technology 
 
 📖 Currently studying web development in Hubmer College, Toronto 
 
 🌱 Actively learning TypeScript
+
+## My Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,php,html,css,sass&theme=dark&perline=12)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,vite,redux,tailwind,materialui,webpack,bootstrap,jquery,styledcomponents,figma,wordpress&theme=dark&perline=12)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,pug,dotnet,laravel,mysql,firebase,postman,vscode,visualstudio,github,vercel,aws,azure,docker&theme=dark&perline=12)](https://skillicons.dev)
+
+## Connect with me!
+
+[![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0183BF?style=flat-square&labelColor=0183BF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-thomas-6b563012)](https://www.linkedin.com/in/william-p-56733b211/)
 
 <details>
   <summary>GitHub Stats</summary>
