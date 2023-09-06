@@ -8,11 +8,11 @@
 
 ## My Skills:
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,php,html,css,sass&theme=dark&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,php,html,css,sass&theme=dark&perline=7)](https://skillicons.dev)
 ### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=react,vite,redux,tailwind,materialui,webpack,bootstrap,jquery,styledcomponents,figma,wordpress&theme=dark&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,redux,tailwind,materialui,webpack,bootstrap,jquery,styledcomponents,figma,wordpress&theme=dark&perline=7)](https://skillicons.dev)
 ### Backend:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,pug,dotnet,laravel,mysql,firebase,postman,vscode,visualstudio,github,vercel,aws,azure,docker&theme=dark&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,pug,dotnet,laravel,mysql,firebase,postman,vscode,visualstudio,github,vercel,aws,azure,docker&theme=dark&perline=7)](https://skillicons.dev)
 
 ## Connect with me!
 
