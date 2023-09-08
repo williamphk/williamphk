@@ -12,7 +12,7 @@
 ### Frontend:
 [![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,materialui,webpack,bootstrap,jquery,styledcomponents,github,vercel,figma,wordpress&theme=dark&perline=7)](https://skillicons.dev)
 ### Backend:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,pug,dotnet,laravel,mysql,firebase,postman,aws,azure,docker&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,dotnet,laravel,mysql,firebase,postman,aws,azure,docker&theme=dark&perline=7)](https://skillicons.dev)
 
 ## Connect with me!
 
