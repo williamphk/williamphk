@@ -4,7 +4,7 @@
 
 📖 Currently studying web development in Hubmer College, Toronto 
 
-🌱 Actively learning TypeScript
+🌱 Actively learning AWS
 
 ## My Skills:
 ### Languages:
