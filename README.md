@@ -2,9 +2,9 @@
 
 💭 Interested in hiking, nature, gaming, movies, and technology 
 
-📖 Currently studying web development in Hubmer College, Toronto 
+📖 Graduated from Web Development in Hubmer College, Toronto 
 
-🌱 Actively learning AWS
+🌱 Actively learning AWS Cloud Solution Architect, LeetCode Blind 75
 
 ## My Skills:
 ### Languages:
