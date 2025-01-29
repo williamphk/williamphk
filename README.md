@@ -2,19 +2,15 @@
 
 💭 Interested in hiking, nature, gaming, movies, and technology 
 
-📖 Graduated from Web Development in Hubmer College, Toronto 
-
-🌱 Actively learning AWS Cloud Solution Architect, LeetCode Blind 75
-
-🎍 Check out my marketing agency if you need help with WordPress: [here](https://nimbusesdigital.com)
+🌱 Actively learning Spring Boot
 
 ## My Skills:
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,php,html,css,sass&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,java,html,css,cs,sass&theme=dark&perline=7)](https://skillicons.dev)
 ### Frontend:
 [![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,materialui,webpack,bootstrap,jquery,styledcomponents,github,vercel,figma,wordpress&theme=dark&perline=7)](https://skillicons.dev)
 ### Backend:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,dotnet,laravel,mysql,firebase,postman,aws,azure,docker&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,spring,dotnet,laravel,mysql,firebase,postman,aws,azure,docker&theme=dark&perline=7)](https://skillicons.dev)
 
 ## Connect with me!
 
